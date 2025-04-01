@@ -1,30 +1,12 @@
 [
   {
-    "id": "ghibli",
-    "name": "Ghibli",
+    "id": "gaba",
+    "name": "gaba",
     "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image01.png"
   },
   {
     "id": "anime",
     "name": "Anime",
-    "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image01.png",
-    "prompt": ""
-  },
-  {
-    "id": "cartoon",
-    "name": "Cartoon",
-    "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image01.png",
-    "prompt": ""
-  },
-  {
-    "id": "painting",
-    "name": "Painting",
-    "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image01.png",
-    "prompt": ""
-  },
-  {
-    "id": "sketch",
-    "name": "Sketch",
     "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image01.png",
     "prompt": ""
   }
