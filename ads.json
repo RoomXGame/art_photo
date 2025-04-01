@@ -7,7 +7,7 @@
   "RewardedId": "",
   "BannerId_01": {
     "adId": "ca-app-pub-3940256099942544/2934735716",
-    "isActive": false
+    "isActive": true
   },
   "BannerId_02": {
     "adId": "ca-app-pub-3940256099942544/2934735716",
@@ -15,7 +15,7 @@
   },
   "NativeAdId_01": {
     "adId": "ca-app-pub-3940256099942544/3986624511",
-    "isActive": false
+    "isActive": true
   },
   "NativeAdId_02": {
     "adId": "ca-app-pub-3940256099942544/3986624511",
