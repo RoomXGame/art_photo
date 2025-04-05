@@ -2,13 +2,14 @@
   {
     "id": "ghibli",
     "name": "Ghibli",
-    "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image01.png"
+    "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image01.png",
+    "prompt": "Take this photo and convert it into an HD, Ghibli-style anime artwork. The image should have soft, hand-drawn lines, rich, vibrant colors, and intricate details, like those seen in Studio Ghibli films such as Spirited Away or My Neighbor Totoro. The background should pay attention to the details found in traditional Ghibli animation. Please ensure the characters and scenery have a dreamlike, artistic quality with soft shading and an enchanting, serene mood."
   },
   {
     "id": "anime",
     "name": "Anime",
     "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image02.png",
-    "prompt": "A vibrant sunset over a tranquil beach, with waves gently crashing on the shore. The sky is filled with rich shades of orange and pink, and a figure in anime style stands watching the sunset with flowing hair and a peaceful expression."
+    "prompt": "Take this photo and convert it into an HD, Anime-style anime artwork. The image should have soft, hand-drawn lines, rich, vibrant colors, and intricate details, like those seen in Studio Ghibli films such as Spirited Away or My Neighbor Totoro. The background should pay attention to the details found in traditional Ghibli animation. Please ensure the characters and scenery have a dreamlike, artistic quality with soft shading and an enchanting, serene mood."
   },
   {
     "id": "sketch",
