@@ -1,13 +1,20 @@
 [
   {
-    "id": "gaba",
-    "name": "gaba",
-    "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image01.png"
-  },
-  {
     "id": "anime",
     "name": "Anime",
     "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image02.png",
-    "prompt": "Take this photo and convert it into an HD, Anime-style anime artwork. The image should have soft, hand-drawn lines, rich, vibrant colors, and intricate details, like those seen in Studio Ghibli films such as Spirited Away or My Neighbor Totoro. The background should pay attention to the details found in traditional Ghibli animation. Please ensure the characters and scenery have a dreamlike, artistic quality with soft shading and an enchanting, serene mood."
+    "prompt": "A vibrant sunset over a tranquil beach, with waves gently crashing on the shore. The sky is filled with rich shades of orange and pink, and a figure in anime style stands watching the sunset with flowing hair and a peaceful expression."
+  },
+  {
+    "id": "sketch",
+    "name": "Sketch",
+    "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image04.png",
+    "prompt": "A pencil sketch of a serene sunset at the beach, with delicate strokes showing the waves gently lapping at the shore, and a silhouetted figure standing on the edge of the water, gazing at the horizon."
+  },
+    {
+    "id": "cartoon",
+    "name": "Cartoon",
+    "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image06.png",
+    "prompt": "A cartoonish representation of a beach at sunset, with exaggerated, bold colors. The sun is setting on the horizon, and playful, round figures are enjoying the moment, with big eyes and smiling faces, as the sky turns vibrant shades of pink and orange."
   }
 ]
