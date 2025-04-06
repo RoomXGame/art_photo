@@ -9,18 +9,18 @@
     "id": "anime",
     "name": "Anime",
     "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image02.png",
-    "prompt": "Take this photo and convert it into an HD, Anime-style anime artwork. The image should have soft, hand-drawn lines, rich, vibrant colors, and intricate details, like those seen in Studio Ghibli films such as Spirited Away or My Neighbor Totoro. The background should pay attention to the details found in traditional Ghibli animation. Please ensure the characters and scenery have a dreamlike, artistic quality with soft shading and an enchanting, serene mood."
+    "prompt": "Convert the attached image into a vibrant, detailed anime-style illustration. Preserve the character’s main features but add clean line art, colorful shading, and large expressive eyes typical of Japanese anime. The background should match an anime aesthetic with bright colors and dynamic lighting."
   },
   {
     "id": "sketch",
     "name": "Sketch",
     "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image04.png",
-    "prompt": "A pencil sketch of a serene sunset at the beach, with delicate strokes showing the waves gently lapping at the shore, and a silhouetted figure standing on the edge of the water, gazing at the horizon."
+    "prompt": "Transform the attached image into a rough, hand-drawn sketch. Focus on using fine pencil-like lines, minimal shading, and a monochromatic or grayscale color scheme, keeping a natural, unfinished feel."
   },
     {
     "id": "cartoon",
     "name": "Cartoon",
     "image": "https://raw.githubusercontent.com/RoomXGame/art_photo/refs/heads/main/images/image06.png",
-    "prompt": "A cartoonish representation of a beach at sunset, with exaggerated, bold colors. The sun is setting on the horizon, and playful, round figures are enjoying the moment, with big eyes and smiling faces, as the sky turns vibrant shades of pink and orange."
+    "prompt": "Turn the attached image into a playful cartoon-style drawing. Keep the original features recognizable but simplify the shapes, exaggerate expressions, and use bold outlines with bright, vivid colors for a fun cartoonish look."
   }
 ]
