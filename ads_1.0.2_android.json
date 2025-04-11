@@ -1,25 +1,25 @@
 {
   "AppOpenId": "ca-app-pub-3940256099942544/9257395921",
   "ClickCount": 2,
-  "DisplayAds": false,
+  "DisplayAds": true,
   "NativeAdId": "ca-app-pub-3940256099942544/2247696110",
   "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
   "RewardedId": "ca-app-pub-3940256099942544/5224354917",
   "BannerId_01": {
     "adId": "ca-app-pub-3817888579216693/3725865270",
-    "isActive": false
+    "isActive": true
   },
   "BannerId_02": {
     "adId": "ca-app-pub-3817888579216693/3725865270",
-    "isActive": false
+    "isActive": true
   },
   "NativeAdId_01": {
     "adId": "ca-app-pub-3940256099942544/2247696110",
-    "isActive": false
+    "isActive": true
   },
   "NativeAdId_02": {
     "adId": "ca-app-pub-3940256099942544/2247696110",
-    "isActive": false
+    "isActive": true
   },
   "Key": "AIzaSyA4hesbnFRQ_4nbMQ-2-tiNTB3qR0sk71c",
   "generation_count": 20,
