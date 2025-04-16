@@ -11,15 +11,15 @@
   },
   "BannerId_02": {
     "adId": "ca-app-pub-3817888579216693/3725865270",
-    "isActive": true
+    "isActive": false
   },
   "NativeAdId_01": {
     "adId": "/229445249,22854675097/highR_RS88_Ghibili_386_NATIVE_11898_160425",
-    "isActive": true
+    "isActive": false
   },
   "NativeAdId_02": {
     "adId": "/229445249,22854675097/highR_RS88_Ghibili_386_NATIVE_11898_160425",
-    "isActive": true
+    "isActive": false
   },
   "Key": "AIzaSyA4hesbnFRQ_4nbMQ-2-tiNTB3qR0sk71c",
   "generation_count": 20,
