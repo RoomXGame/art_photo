@@ -1,24 +1,24 @@
 {
-  "AppOpenId": "/229445249,22854675097/highR_RS88_Ghibili_386_APP_OPEN_11896_160425",
+  "AppOpenId": "ca-app-pub-1238422202577063/6922291093",
   "ClickCount": 2,
   "DisplayAds": true,
-  "NativeAdId": "/229445249,22854675097/highR_RS88_Ghibili_386_NATIVE_11898_160425",
-  "InterstitialId": "/229445249,22854675097/highR_RS88_Ghibili_386_INTERSTITIAL_11897_160425",
-  "RewardedId": "/229445249,22854675097/highR_RS88_Ghibili_386_REWARDED_VIDEO_11899_160425",
+  "NativeAdId": "ca-app-pub-1238422202577063/5033967694",
+  "InterstitialId": "ca-app-pub-1238422202577063/9847837332",
+  "RewardedId": "ca-app-pub-1238422202577063/1669964419",
   "BannerId_01": {
-    "adId": "ca-app-pub-3817888579216693/3725865270",
+    "adId": "ca-app-pub-1238422202577063/5609209426",
     "isActive": true
   },
   "BannerId_02": {
-    "adId": "ca-app-pub-3817888579216693/3725865270",
+    "adId": "ca-app-pub-1238422202577063/5609209426",
     "isActive": true
   },
   "NativeAdId_01": {
-    "adId": "/229445249,22854675097/highR_RS88_Ghibili_386_NATIVE_11898_160425",
+    "adId": "ca-app-pub-1238422202577063/5033967694",
     "isActive": true
   },
   "NativeAdId_02": {
-    "adId": "/229445249,22854675097/highR_RS88_Ghibili_386_NATIVE_11898_160425",
+    "adId": "ca-app-pub-1238422202577063/5033967694",
     "isActive": true
   },
   "Key": "AIzaSyA4hesbnFRQ_4nbMQ-2-tiNTB3qR0sk71c",
