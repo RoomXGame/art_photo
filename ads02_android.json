@@ -1,24 +1,24 @@
 {
-  "AppOpenId": "ca-app-pub-3817888579216693/8679281817",
+  "AppOpenId": "ca-app-pub-1238422202577063/6922291093",
   "ClickCount": 2,
   "DisplayAds": true,
-  "NativeAdId": "ca-app-pub-3817888579216693/8664761955",
-  "InterstitialId": "ca-app-pub-3817888579216693/7665110280",
-  "RewardedId": "",
+  "NativeAdId": "ca-app-pub-1238422202577063/5033967694",
+  "InterstitialId": "ca-app-pub-1238422202577063/9847837332",
+  "RewardedId": "ca-app-pub-1238422202577063/1669964419",
   "BannerId_01": {
-    "adId": "ca-app-pub-3817888579216693/3725865270",
+    "adId": "ca-app-pub-1238422202577063/5609209426",
     "isActive": true
   },
   "BannerId_02": {
-    "adId": "ca-app-pub-3817888579216693/3725865270",
+    "adId": "ca-app-pub-1238422202577063/5609209426",
     "isActive": true
   },
   "NativeAdId_01": {
-    "adId": "ca-app-pub-3817888579216693/8664761955",
+    "adId": "ca-app-pub-1238422202577063/5033967694",
     "isActive": true
   },
   "NativeAdId_02": {
-    "adId": "ca-app-pub-3817888579216693/8664761955",
+    "adId": "ca-app-pub-1238422202577063/5033967694",
     "isActive": true
   },
   "Key": "AIzaSyA4hesbnFRQ_4nbMQ-2-tiNTB3qR0sk71c",
